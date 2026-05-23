@@ -27,11 +27,10 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophies.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onedark" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=rakhi-qwerty&theme=onedark" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rakhi-qwerty&color=blue&style=flat-square" />
 </p>
 
 🎨 Beyond Coding
