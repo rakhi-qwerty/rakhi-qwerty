@@ -1,4 +1,5 @@
-## Hi i'm rakhi-qwerty 👋
+<h1>  Hi i'm rakhi-qwerty 👋</h1>
+
 
 - 🔭 I’m currently working on Sound-Shpere (music streaming website) 
 - 🌱 I’m currently learning (backend) , express.js 
