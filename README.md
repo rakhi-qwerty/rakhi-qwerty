@@ -1,4 +1,4 @@
- Hi i'm rakhi-qwerty 👋
+## Hi i'm rakhi-qwerty 👋
 
 - 🔭 I’m currently working on Sound-Shpere (music streaming website) 
 - 🌱 I’m currently learning (backend) , express.js 
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My brain is constantly in a battle between Figma (which wants everything to look beautiful) 
                 and C++ (which just wants the code to compile without errors).
 
-Languages and Tools
+## Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
@@ -22,15 +22,15 @@ Languages and Tools
 
 ## 📊 My GitHub Journey
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophies.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onedark" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
