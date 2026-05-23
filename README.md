@@ -23,7 +23,7 @@
 ## 📊 My GitHub Journey
 
 <p align="left">
-  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=rakhi-qwerty)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rakhi-qwerty" alt="GitHub Streak" />
 </p>
 
 <p align="left">
