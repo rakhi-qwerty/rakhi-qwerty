@@ -27,9 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=rakhi-qwerty" alt="GitHub Streak" />
 </p>
 
-![Rakhi's GitHub stats]
-https://github-readme-stats.vercel.app/api?username=rakhi-qwerty&show_icons=true&theme=tokyonight
-
 <p align="left">
  <img src="https://github-profile-trophy.vercel.app/?username=rakhi-qwerty&theme=onedark" />
 </p>
