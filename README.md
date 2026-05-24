@@ -1,8 +1,8 @@
-<h1>  Hi i'm rakhi-qwerty 👋</h1>
+<h1 aling="center">  Hi i'm rakhi-qwerty 👋</h1>
 
 - 🎓 Diploma CSE Student
 - 🔭 I’m currently working on Sound-Shpere (music streaming website) 
-- 🌱 I’m currently learning (backend) , express.js 
+- 🌱 I’m currently learning Backend Development & Express.js 
 - 💬 Ask me about Frontend development and designing 
 - 📫 How to reach me: rakhimuduli6371@gmail.com
 - ⚡ Fun fact: My brain is constantly in a battle between Figma (which wants everything to look beautiful) 
@@ -26,6 +26,8 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=rakhi-qwerty" alt="GitHub Streak" />
 </p>
+
+![Rakhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhi-qwerty&show_icons=true&theme=tokyonight)
 
 <p align="left">
  <img src="https://github-profile-trophy.vercel.app/?username=rakhi-qwerty&theme=onedark" />
